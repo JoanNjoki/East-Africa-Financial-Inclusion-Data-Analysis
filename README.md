@@ -26,4 +26,4 @@ Author: **Joan Njoki**
 >>Google Collaboratory Notebook
 ---
 ## Contact
->>>>Feel free to contact me  with any questions or if you are interested in contributing!
+>>>Feel free to contact me  with any questions or if you are interested in contributing!
