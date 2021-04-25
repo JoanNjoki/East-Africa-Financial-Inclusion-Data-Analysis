@@ -5,7 +5,7 @@ Author: **Joan Njoki**
 ---
 ---
 ## Purpose
->  Identify individuls that have a high likelihood of having bank accounts.
+ Identify individuls that have a high likelihood of having bank accounts.
 
 ---
 ## Methods Used
@@ -20,10 +20,10 @@ Author: **Joan Njoki**
 * Numpy
 ---
 ## Project Description
->>This analysis is based on data collected in Uganda, Tanzania, Kemya and Rwanda from 2016 and 2018. With an aim to understand demographic attributes of individuals with access to bank accounts. Which is an indicator of financial growth.
+>This analysis is based on data collected by FInscope Surveys in Uganda, Tanzania, Kemya and Rwanda from 2016 and 2018, with an aim to understand demographic attributes of individuals with access to bank accounts. Which is an indicator of financial growth.
 ---
 ## Featured Notebooks
->>Google Collaboratory Notebook
+>Google Collaboratory Notebook
 ---
 ## Contact
->>>Feel free to contact me  with any questions or if you are interested in contributing!
+>Feel free to contact me  with any questions or if you are interested in contributing!
