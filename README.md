@@ -5,7 +5,7 @@ Author: **Joan Njoki**
 ---
 ---
 ## Purpose
- Identify individuls that have a high likelihood of having bank accounts.
+ Identify individuals that have a high likelihood of having bank accounts.
 
 ---
 ## Methods Used
